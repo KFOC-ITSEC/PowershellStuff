@@ -1,8 +1,8 @@
 import boto3
 from botocore.exceptions import ClientError
 
-aws_access_key_id = "AKIAUM4G6O6NIBJTBJE5"
-aws_secret_access_key = "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"
+aws_access_key_id = ""
+aws_secret_access_key = ""
 region_name = "us-east-2"
 
 def list_ec2_instances():
